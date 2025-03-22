@@ -1,6 +1,6 @@
 <script>
-  test function(){
-    console.log('Hello');
+  function begin_func() {
+    console.log('Hello')
   }
-  test();
+  begin_func();
 </script>
