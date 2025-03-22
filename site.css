@@ -1,3 +1,9 @@
 .text-success {
-    color:green !important;
+    color: green !important;
+}
+.text-primary {
+    color: blue !important;
+}
+.text-danger {
+    color: crimson !important;
 }
