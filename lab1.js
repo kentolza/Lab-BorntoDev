@@ -8,7 +8,7 @@
 
   function begin_func() {
     console.log('Hello')
-    sub1()
+    //sub1()
   }
   begin_func();
 
