@@ -1,0 +1,6 @@
+# Git 101
+- 1. สร้าง Repository
+- 2. Clone Project ลงเครื่อง
+- 3. แก้ Code เพิ่ม Code
+- 4. Commit
+- 5. Push
