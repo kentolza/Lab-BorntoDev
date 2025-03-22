@@ -4,3 +4,8 @@
 - 3. แก้ Code เพิ่ม Code
 - 4. Commit
 - 5. Push
+- 6. Pull
+- 7. การสร้าง Branch
+- 8. การ Merge Branch
+- 9. การ Pull-Request
+- 10. การตั้งชื่อ commit & add emoji with https://gitmoji.dev
