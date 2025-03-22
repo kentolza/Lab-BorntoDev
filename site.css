@@ -7,3 +7,6 @@
 .text-danger {
     color: crimson !important;
 }
+.text-warning {
+    color: orange !important;
+}
