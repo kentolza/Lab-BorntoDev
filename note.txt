@@ -1,4 +1,4 @@
-# Git 101
+# Git 101 : version control 
 - 1. สร้าง Repository
 - 2. Clone Project ลงเครื่อง
 - 3. แก้ Code เพิ่ม Code
@@ -7,5 +7,9 @@
 - 6. Pull
 - 7. การสร้าง Branch
 - 8. การ Merge Branch
-- 9. การ Pull-Request
+- 9. การ Pull-Request (การแชร์ commit เพื่อให้ PM ตรวจสอบและ commit merge)
 - 10. การตั้งชื่อ commit & add emoji with https://gitmoji.dev
+- 11. การใช้งาน git copilot 
+- 12. CI/CD (Continuous Intergration / Continuous Delivery / Continuous Deployment)
+- 13. GitHub Actions : Automate your workflow (Events > Jobs > Runners > Steps > Actions)
+- 14. Run Git Action with superlinter.yml (.github/workflows/superlinter.yml)
